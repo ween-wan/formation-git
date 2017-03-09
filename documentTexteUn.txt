@@ -1,2 +1,3 @@
 Je fais des modifications dans mon fichier d'origine pour voir 1/si 2/comment ces changements vont affecter mon fichier, mon dossier, l'arborescence
 de mon projet etc etc.
+j'ajoute une différence
